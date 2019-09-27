@@ -7,7 +7,7 @@ The assignment documentation can be found [here](http://www.cse.iitd.ac.in/~maus
 Purpose of this assignment is to solve gene matching and find the optimal solution in the given amount of time. 
 Details on input and output formats are given in the assignment pdf.
 
-Overview
+## Overview
   + Size of Genes and number of genes to be matched can be very large. In that case, normal Dynamic Programming Algorithm would not work due to large time and space complexity.
   + Artificial Intelligence Approaches need to be applied in those cases.
   + This assignment is solved using Genetic Algorithms and Simulated Annealing. Code are given in respective folders.
